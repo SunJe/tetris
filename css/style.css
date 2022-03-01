@@ -59,23 +59,23 @@ body {
 }
 
 .tree {
-  background: #447c69;
+  background: purple;
 }
 .zeeRight {
-  background: #e4bf80;
+  background: yellow;
 }
 .square {
-  background: #e16552;
+  background: green;
 }
 .zeeLeft {
-  background: #993767;
+  background: red;
 }
 .bar {
-  background: #4e2472;
+  background: cyan;
 }
 .elLeft {
-  background: #e0598b;
+  background: orange;
 }
 .elRight {
-  background: #5698c4;
+  background: blue;
 }
